@@ -1,0 +1,26 @@
+{
+  "name": "Login",
+  "version": "1.0.0",
+  "description": "login json file with be connect but to browser one error create\r #### error code: require is not definet\r if this used \"import\" this get error \r but one [package.json] file in {\"type:module\"} write  then\r code to run again this get error.",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoltanHuseynov/Login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoltanHuseynov/Login/issues"
+  },
+  "homepage": "https://github.com/SoltanHuseynov/Login#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "md5": "^2.3.0",
+    "path": "^0.12.7"
+  }
+}
